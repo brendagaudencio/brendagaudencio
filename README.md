@@ -2,7 +2,6 @@
 
 ## Sobre mim ✨
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec "Arthur de Azevedo". Minha trajetória começou no início de 2023, desde então, tenho trilhado um caminho de aprendizado constante.
-## Interesses 📚
 
 ## Linguagens 📋
 <div>
