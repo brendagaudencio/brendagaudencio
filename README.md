@@ -2,7 +2,7 @@
 
 ## Sobre mim ✨
 * Estudante de Análise e Desenvolvimento de Sistemas na Fatec "Arthur de Azevedo".
-* Minhas áreas de maior interesse são: nuvem, inteligência artificial e Salesforce.
+* Áreas de maior interesse: nuvem, inteligência artificial e Salesforce.
 * Desenvolvimento com foco em Front-end.
 
 ## Linguagens 📋
