@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou a Brenda 👋
+# Olá, mundo! Eu sou a Brenda  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 ## Sobre mim ✨
 * Estudante de Análise e Desenvolvimento de Sistemas na Fatec "Arthur de Azevedo".
