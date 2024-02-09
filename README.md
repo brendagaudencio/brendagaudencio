@@ -8,7 +8,12 @@
 ## Linguagens 📋
 <div>
   <img align="center" alt="Brenda-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+## Aprendendo 📝
+<div>
   <img align="center" alt="Brenda-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Brenda-JavaScrpit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">        
 </div>
 
 ## Ferramentas 🖥
