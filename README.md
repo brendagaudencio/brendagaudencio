@@ -3,6 +3,7 @@
 ## Sobre mim ✨
 * Estudante de Análise e Desenvolvimento de Sistemas na Fatec "Arthur de Azevedo".
 * Desenvolvimento com foco em Front-end.
+* Estagiária na Compass UOL.
 
 ## Linguagens 📋
 <div>
