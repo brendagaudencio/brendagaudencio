@@ -1,14 +1,18 @@
 # Olá, mundo! Eu sou a Brenda  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 ## Sobre mim ✨
-* Estudante de Análise e Desenvolvimento de Sistemas na Fatec "Arthur de Azevedo".
+* Estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim "Arthur de Azevedo".
 * Estagiária na Compass UOL.
-* Desenvolvimento Front-end.
+* Desenvolvedora Front-end.
 
 ## Linguagens 📋
 <div>
-  <img align="center" alt="Brenda-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Brenda-JavaScrpit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
+  <img align="center" alt="JavaScrpit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
          
 ## Ferramentas 🖥
