@@ -2,7 +2,6 @@
 
 ## Sobre mim ✨
 * Estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim "Arthur de Azevedo".
-* Estagiária na Compass UOL.
 * Desenvolvedora Front-end.
 
 ## Linguagens 📋
