@@ -1,4 +1,5 @@
 # Olá, mundo! Eu sou a Brenda  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+Atualmente trabalho na Compass UOL como Programadora Trainee depois de participar do programa de bolsas da empresa. Durante minha experiência como estagiária, trabalhei em projetos desafiadores que envolveram o uso de tecnologias como HTML, CSS, JavaScript e frameworks como React. Desenvolvi habilidades em criação de interfaces responsivas, otimização de desempenho e colaborei com equipes para entregar soluções eficientes e de alta qualidade. Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim "Arthur de Azevedo", onde estudo C, SQL, Engenharia de Software e Interação Humano-Computador (IHC).
 
 ## Linguagens 📋
 <div>
