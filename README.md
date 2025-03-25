@@ -14,7 +14,7 @@ While I cannot share specific details about these private projects, I'm always o
 If you are interested in collaborating or discussing potential projects, please feel free to connect with me.
          
 ## Connect with me
-
+[Linkedin](https://www.linkedin.com/in/brendagaudencio/)
 
 ##
 Thanks for visiting me! 😊
