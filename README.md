@@ -7,7 +7,7 @@ A Software Development Engineer (JR) and a current Bachelor's student in Systems
 * **Certifications:** AWS Certified, demonstrating proficiency in cloud technologies and TOEIC certified classifiend in B2 proficiency.
 
 ## Projects
-I have been actively involved in numerous noteworthy projects, most of which are private and, unfortunately, not publicly accessible. My work spans across a range of domains, showcasing my diverse skills and experiences in the field of software development and data science.
+I have been actively involved in numerous noteworthy projects, most of which are private and, unfortunately, not publicly accessible. My work spans across a range of domains, showcasing my diverse skills and experiences in the field of software development.
 
 While I cannot share specific details about these private projects, I'm always open to discussing my expertise, experiences, and potential collaboration opportunities. Feel free to reach out for a detailed discussion or inquire about my involvement in specific domains.
 
